@@ -2,7 +2,5 @@
 
 
 int main(){
-	printf("jcdhkjdhd");
-	return 0;
-
-}
+	printf("jcdhkjdhd balls");
+	return -4;
